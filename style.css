@@ -9,7 +9,9 @@ h1 {
 }
 
 form {
+    padding: 20px;
     margin-top: 20px;
+    background-color: #ecf0f1;
 }
 
 label {
